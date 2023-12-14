@@ -1,0 +1,18 @@
+repo_name: liftyourgame/environment-ninjawater-staging
+report_id: 61e0506b973c3816c532b737a4d328b2
+repo_type: Public
+timestamp: '2023-12-14T16:27:08+00:00'
+requested_by: liftyourgame
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
